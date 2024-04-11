@@ -1,0 +1,50 @@
+Name,Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable
+Uriah,Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive
+Paula,Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative
+Edward,Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative
+Michael,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive
+Jasmine,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive
+Maruk,Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive
+Latia,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive
+Sharlene,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive
+Jac,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative
+Joseph,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative
+Myriam,Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive
+Dheepa,Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative
+Bartholemew,Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative
+Xana,Common Cold,No,No,No,No,29,Female,Low,Normal,Negative
+Prater,Diabetes,No,No,No,No,29,Male,Low,Normal,Negative
+Kaylah,Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative
+Kristen,Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative
+Bobby,Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative
+Reid,Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive
+Hector,Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive
+Mariela,Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive
+Angela,Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive
+Gerald,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative
+Reilly,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative
+Carlee,Eczema,No,Yes,Yes,No,30,Male,High,High,Negative
+Jaydon,Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative
+Bridger,Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative
+Leon,Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative
+Charity,Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative
+Axel,Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative
+Milton,Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative
+Cory,Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative
+Saniya,Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative
+Alisa,Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative
+Lincoln,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive
+Aliana,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive
+Kayden,Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive
+James,Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive
+Willow,Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive
+Clayton,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive
+Celia,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive
+Valentin,Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive
+Ryland,Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive
+Esteban,Eczema,Yes,No,No,No,30,Male,High,High,Positive
+Jonathan,Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive
+Nevaeh,Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive
+Chaim,Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive
+Arely,Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive
+Vance,Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive
